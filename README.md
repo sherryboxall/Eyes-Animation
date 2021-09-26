@@ -1,30 +1,17 @@
 # Eyes-Animation
-A pair of eyes follow the mouse cursor as it moves.
+Create a pair of eyes which follow the the movement of the mouse cursor.
   
-![Eyes Project Screenshot](https://github.com/jayeclark/Eyes-Animation/blob/main/Eyes-Screenshot.png?raw=true)
 
 ## Description
-This project demonstrates the ability to use Javascript to set web page styles. The eyes follow your mouse cursor as you move it around the screen
+This project demonstrates the ability to use Javascript create web styles.
 
 ### How to Run
-This will run locally in your browser from index.html if you download all files and ensure they're located in the same directory as each other and have the same file structure (i.e. images folder with separately stored images.) Alternately, you can see it in action <a href="https://jayeclark.github.io/eyes-animation/index.html" target="_blank">here</a>.
+This will run locally in your browser from index.html if you download all files and ensure they're located in the same directory as each other and have the same file structure  
 
-### Built with
-- Javascript
-- HTML
-- CSS
 
 ### Planned Future Improvements
-- [ ] Change the math on the movement so that the eyes focus on a point 10" in front of the screen
-- [ ] Use CSS to add eyelashes and iris details
-- [ ] Add pupil reflection that moves as the eyes move
-- [ ] Use CSS to add blinking eyelids
+Try to program eyes so that pupils move opposite directions (left eye counter clockwise). Make eyes blink when pupils cross
 
-
-## Back matter
-
-### Legal Disclaimer
-Usage of this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state, and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
 
 
 ### License
